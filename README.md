@@ -7,4 +7,4 @@ ROOM- A motion controlled detector for my room
 
 morsecode101- Morse code device
 
-Transmitter, Receiver - Code for the project(Smart Riding Kit) I worked in for IICDC_2018
+Transmitter, Receiver - Code for the project(Smart Riding Kit) I worked on for IICDC_2018
